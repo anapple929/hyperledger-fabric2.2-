@@ -26,7 +26,7 @@ https://www.bilibili.com/video/BV16z4y1e7bx/?spm_id_from=333.999.0.0&vd_source=1
 - 查询资产交易的历史记录
 
 #### 链码的细节介绍
-
+![输入图片说明](%E9%93%BE%E7%A0%81%E4%BB%8B%E7%BB%8D/%E7%AC%AC%E4%BA%8C%E8%8A%82%EF%BC%9A%E9%93%BE%E7%A0%81%E7%9A%84%E7%BC%96%E5%86%99.png)
 
 
 #### 参与贡献
