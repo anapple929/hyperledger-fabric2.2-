@@ -3,21 +3,31 @@
 #### 介绍
 一个简单的fabric练习。。 基于hyperledger fabric2.2 资产转移项目，使用gosdk调用，配置了hyperledger explorer区块链浏览器。目前实现的联盟链网络结构是两个组织org1msp和org2msp，每个组织有一个peer节点。有一个order节点，两个cli客户端节点。 service层已经写好，main主程序直接调用service
 
-#### 软件架构
-软件架构说明
 
-
-#### 安装教程
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
 
 #### 使用说明
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+https://www.bilibili.com/video/BV16z4y1e7bx/?spm_id_from=333.999.0.0&vd_source=140298c09a850b3c5413933606102807   这个视频录制了怎么从0起步运行起一个自己的区块链项目
+
+
+#### 包含的功能
+(关于用户)
+
+- 用户注册
+- 用户注销
+- 查询用户
+
+
+(关于资产)
+
+- 资产添加
+- 资产转移
+- 查询资产
+- 查询资产交易的历史记录
+
+#### 链码的细节介绍
+
+
 
 #### 参与贡献
 
